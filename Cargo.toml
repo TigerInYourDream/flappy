@@ -1,0 +1,8 @@
+[package]
+name = "hello_bterm"
+version = "0.1.0"
+edition = "2021"
+authors = ["Alvin<zyzzz0928@gmail.com>"]
+
+[dependencies]
+bracket-lib = "0.8.7"
